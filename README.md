@@ -87,6 +87,14 @@ air-quality-india/
 
 ---
 
+
+##  Insights
+<img width="1651" height="693" alt="image" src="https://github.com/user-attachments/assets/39da09a4-acdc-4d50-b519-e030757c3dda" />
+<img width="694" height="590" alt="image" src="https://github.com/user-attachments/assets/98f2025c-22f5-4635-a235-081275871634" />
+
+
+---
+
 ##  Data Sources
 
 - **[OpenAQ](https://openaq.org/)** — Real-time & historical air quality data (free API)
